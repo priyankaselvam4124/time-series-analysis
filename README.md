@@ -8,9 +8,9 @@ Key Features
 - ✅ Visualization – KDE plots, histograms, and bar charts for insights.
 
 Technologies Used
-🔹 Pandas – Data manipulation and feature engineering
-🔹 Matplotlib & Seaborn – Data visualization
-🔹 NumPy – Numerical operations
+-🔹 Pandas – Data manipulation and feature engineering
+-🔹 Matplotlib & Seaborn – Data visualization
+-🔹 NumPy – Numerical operations
 
 💾 How to Run
 
