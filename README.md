@@ -2,10 +2,10 @@ Objective
 This project analyzes stock price movements using time series techniques. We compute moving averages, daily returns, and risk metrics, then visualize trends and distributions.
 
 Key Features
-✅ Moving Averages (10, 20, 30 days) – Trend smoothing for price analysis.
-✅ Daily Return Calculation – Measures percentage change in stock price.
-✅ Risk Analysis – Uses standard deviation to quantify volatility.
-✅ Visualization – KDE plots, histograms, and bar charts for insights.
+- ✅ Moving Averages (10, 20, 30 days) – Trend smoothing for price analysis.
+- ✅ Daily Return Calculation – Measures percentage change in stock price.
+- ✅ Risk Analysis – Uses standard deviation to quantify volatility.
+- ✅ Visualization – KDE plots, histograms, and bar charts for insights.
 
 Technologies Used
 🔹 Pandas – Data manipulation and feature engineering
