@@ -15,12 +15,15 @@ Technologies Used
 💾 How to Run
 
 1️⃣ Clone the repository
-
-`git clone <your-repo-url>`
+```bash
+git clone <https://github.com/priyankaselvam4124/time-series-analysis>
+```
 
 2️⃣ Install dependencies
 
-`pip install -r requirements.txt`
+```bash
+pip install -r requirements.txt
+```
 
 3️⃣ Run the Jupyter Notebook to see the analysis
 
